@@ -1,10 +1,10 @@
-import  java.util.scanner;
+import  java.util.Scanner;
 
 class studentgrade{
 
     public static void main(String[]args){
 
-        scanner scan = new scanner (System.in);
+        Scanner scan = new Scanner (System.in);
 
         System.out.println("enter marks");
         int marks = scan.nextInt();

@@ -8,7 +8,7 @@ class intro{
         
         
         System.out.println("hello");
-        System.out.print("rahul late. \n welcome to upgrad");
+        System.out.println("rahul late. \n welcome to upgrad");
 
         System.out.println("enter first number");
         int num1 = scan.nextInt();
